@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1427221093 source:/Users/BernardoRuiz/Desktop/Juego_mate_Final/main.cpp
+	<iostream>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<unistd.h>
+
